@@ -16,7 +16,7 @@ public static void main(String[]args)
           a[1] = 10;
           a[2] = 40;
           a[3] = 30;
-	  a[4] = 75;   //manager did
+	  a[4] = 75;   //manager did changes
 
 for (int i = 0; i <=4;i++)
 {
