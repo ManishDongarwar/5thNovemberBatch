@@ -9,14 +9,14 @@ public static void main(String[]args)
 
 {
 
-   int a[] = { 20 , 10, 40, 30 , 60};
+   int a[] = { 20 , 10, 40, 30 , 50};
 
 
           a[0] = 20;
           a[1] = 10;
           a[2] = 40;
           a[3] = 30;
-	  a[4] = 60;      //manager did changes for array value
+	  a[4] = 50;      //manager did changes for array value
 
 for (int i = 0; i <=4;i++)
 {
